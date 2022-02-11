@@ -13,14 +13,10 @@ El objetivo de este proyecto es crear y difundir un cuerpo de conocimiento [Open
 - Colaborar en el acercamiento entre la academia, la industria y la sociedad en temas relativos al SSWLC.
 
 ## Consideraciones
-### Acerca del idioma
-Esta obra nace en idioma español latino, no obstante y dado su naturaleza científico-técnica, las siglas, nombres _(por ejemplo: OWASP Top 10 Proactive Controls)_ y conceptos _(por ejemplo: framework)_ se utilizarán en el idioma en que tenga más sentido su uso en el contexto en que se esté utilizando. Esto debería facilitar las traducciones a otros idiomas.
-
 ### Acerca de las fuentes consultadas
 Un buen libro, curso, workshop, capacitación acerca de temas específicos de ingeniería del software, gestión de proyectos y en general cualquier temática relacionada con el SSWLC tiene su costo. Todas las fuentes no públicamente disponibilizadas por sus autores que pudiesen ser utilizadas para complementar esta obra serán referenciadas y se obtendrán mediante la compra, contratación o consulta en bibliotecas.
 
 Los auspicios y donaciones que pudiesen ser recibidas serán utilizadas con esta finalidad y rendidas de forma abierta y oportuna.
 
-
-### Acerca de esta obra
-Esta obra se construye bajo la filosofía Open Source y entonces. El principal aporte de los colaboradores es su tiempo, conocimiento y experiencia.
+### Acerca del idioma
+Esta obra nace en idioma español latino, no obstante y dado su naturaleza científico-técnica, las siglas, nombres _(por ejemplo: OWASP Top 10 Proactive Controls)_ y conceptos _(por ejemplo: framework)_ se utilizarán en el idioma en que tenga más sentido su uso en el contexto en que se esté utilizando. Esto debería facilitar las traducciones a otros idiomas.
