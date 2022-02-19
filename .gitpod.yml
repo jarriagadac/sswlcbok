@@ -1,1 +1,5 @@
-image: gitpod/workspace-ruby-2
+image: gitpod/workspace-python
+
+tasks:
+  - init: |
+      pip install -r requirements.txt
