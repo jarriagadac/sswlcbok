@@ -1,12 +1,12 @@
 # Secure Software Life Cycle Body of Knowledge
 
-![GitHub](https://img.shields.io/github/license/jarriagadac/sswlcbok?style=flat-square)
-![Version](https://img.shields.io/badge/version-0.1-orange?style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jarriagadac/sswlcbok?color=orange&style=flat-square)
-![Github All Contributors](https://img.shields.io/github/all-contributors/jarriagadac/sswlcbok?color=orange&style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/jarriagadac/sswlcbok?color=orange&style=flat-square)
-![GitHub Repo stars](https://img.shields.io/github/stars/jarriagadac/sswlcbok?color=orange&style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/sswlcbok?color=orange&label=%40sswlcbok&logo=twitter&style=flat-square)
+![GitHub](https://img.shields.io/github/license/jarriagadac/sswlcbok?style=flat-square&color=blue)
+![Version](https://img.shields.io/badge/version-0.1-blue?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/jarriagadac/sswlcbok?color=blue&style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/jarriagadac/sswlcbok?style=flat-square&color=blue)
+![GitHub forks](https://img.shields.io/github/forks/jarriagadac/sswlcbok?color=blue&style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/jarriagadac/sswlcbok?color=blue&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/sswlcbok?color=blue&label=%40sswlcbok&logo=twitter&style=flat-square)
 
 El objetivo de este proyecto es crear y difundir un cuerpo de conocimiento [Open Source](LICENSE) relativo al *Secure Software Life Cycle* basado en el estado del arte de las ciencias de la computación y el estado de la práctica en el conocimiento empírico de la industria del software. Un objetivo ambicioso pero no imposible.
 
