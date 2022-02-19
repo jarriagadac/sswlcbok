@@ -1,5 +1,11 @@
+
 image: gitpod/workspace-python
 
 tasks:
   - init: |
-      pip install -r requirements.txt
+      pip install -r docs/requirements.txt
+
+vscode:
+  extensions:
+    - ritwickdey.LiveServer
+    - lextudio.restructuredtext
