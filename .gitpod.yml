@@ -8,4 +8,4 @@ tasks:
 vscode:
   extensions:
     - ritwickdey.LiveServer
-    - lextudio.restructuredtext
+    - trond-snekvik.simple-rst
