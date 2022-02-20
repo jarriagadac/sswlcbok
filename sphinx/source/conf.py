@@ -25,7 +25,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 
 html_title = f"SSWLCBOK v{release}"
-html_baseurl = "https://www.sswlcbok.com"
+html_baseurl = "https://sswlcbok.com"
 
 html_theme = "alabaster"
 
