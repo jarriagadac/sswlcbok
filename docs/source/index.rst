@@ -1,29 +1,32 @@
-.. SSWLCBOK documentation master file, created by
-   sphinx-quickstart on Sat Feb 19 20:23:53 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+:hide-toc: [page contents]
 
-Welcome to Lumache's documentation!
-===================================
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers that
-creates recipes mixing random ingredients.  It pulls data from the `Open Food
-Facts database <https://world.openfoodfacts.org/>`_ and offers a *simple* and
-*intuitive* API.
+Secure Software Life Cycle Body of Knowledge
+============================================
 
 .. note::
+   Este proyecto se encuentra en desarrollo activo.
 
-   This project is under active development.
+Este proyecto está orientado a los equipos de desarrollo de software. 
+Programadores, ingenieros de software, líderes técnicos, arquitectos y otros 
+roles técnicos, así como también a los jefes de proyectos, scrum masters, 
+líderes de equipo y otros roles involucrados en el ciclo de vida del software.
+
+El objetivo de este proyecto es crear y difundir un cuerpo de conocimiento 
+`Open Source <https://github.com/jarriagadac/sswlcbok/blob/main/LICENSE>`_
+relativo al :abbr:`SSWLC (Secure Software Life Cycle)` basado en el 
+*estado del arte* de las ciencias de la computación y el *estado de la práctica*
+en el conocimiento empírico de la industria del software. Un objetivo ambicioso
+pero no imposible.
+
+Objetivos Específicos
+---------------------
+
+- Recopilar y vincular diferentes fuentes de conocimiento asociadas al SSWLC.
+- Crear un cuerpo de conocimiento Open Source basado en las fuentes de 
+  conocimiento revisadas.
+- Colaborar en el acercamiento entre la academia, la industria y la sociedad en 
+  temas relativos al SSWLC. 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   about
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
