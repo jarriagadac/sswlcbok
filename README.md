@@ -12,6 +12,6 @@ El objetivo de este proyecto es crear y difundir un cuerpo de conocimiento [Open
 
 Este proyecto está orientado a los equipos de desarrollo de software. Programadores, ingenieros de software, líderes técnicos, arquitectos y otros roles técnicos, así como también a los jefes de proyectos, scrum masters, líderes de equipo y otros roles involucrados en el ciclo de vida del software.
 
-Para la elaboración de este proyecto se utiliza [Sphinx](https://www.sphinx-doc.org/) con el theme [Furo](https://pradyunsg.me/furo/).
+Para la elaboración de este proyecto se utiliza [Sphinx](https://www.sphinx-doc.org/).
 
 La versión HTML de esta documentación puede ser consultada en: [https://www.sswlcbok.com](https://www.sswlcbok.com)
