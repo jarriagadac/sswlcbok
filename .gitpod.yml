@@ -3,7 +3,7 @@ image: gitpod/workspace-python
 
 tasks:
   - init: |
-      pip install -r docs/requirements.txt
+      pip install -r sphinx/requirements.txt
 
 vscode:
   extensions:
